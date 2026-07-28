@@ -1,10 +1,7 @@
 # Anthony Walsh
 
-I'm a technical product marketer with 10 years of experience directing go-to-market strategy for 16 AI infrastructure and applications solutions that generated over $120 million for pre-IPO startups and Fortune 50 enterprises like Meta.
+I'm a technical product marketer with 10 years of experience directing go-to-market strategy for 16 AI infrastructure and applications solutions that generated over $120 million for pre-IPO startups and Fortune 50 enterprises like Meta. I've also been nominated as an AI Adoption Fellow with the Ethical AI Governance Group and an exhibitor at the Agentic AI Summit hosted by UC Berkeley. Currently, I'm developing AI agents for market research and content automation as Marketing Director for Applied AI at [Demodoc](https://demodoc.ai), a GTM engineering studio. 
 
-Currently, I'm developing AI agents for market research and content automation as Marketing Director for Applied AI at [Demodoc](https://demodoc.ai), a GTM engineering studio. 
-
-I've also been nominated as an AI Adoption Fellow with the Ethical AI Governance Group and an exhibitor at the Agentic AI Summit hosted by UC Berkeley.
 
 ## Open-Source & Proprietary Agents
 
