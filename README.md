@@ -17,7 +17,7 @@ I've deployed market research agents for GTM teams at AI infra startups that gen
 * **Account Signals Analyzer** monitors key accounts for events or triggers that indicate demand
 * **Competitive Intel Analyzer** monitors competitors for updates that influence positioning
 
-These agent runs daily — executing web searches for relevant keywords, extracting content with LLMs, and qualifying data deterministically. Lead, account, and competitor signals are enriched with accessible data. Digests are scored, ranked, and delivered directly to Slack
+These agents runs daily — executing web searches for relevant keywords, extracting content with LLMs, and qualifying data deterministically. Records for leads, accounts, and competitors are enriched and de-duplicated based on accessible information. Signals are ranked, scored, and delivered directly to Slack.
 
 ## Links
 
