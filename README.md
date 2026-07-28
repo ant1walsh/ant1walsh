@@ -19,7 +19,7 @@ I've deployed two proprietary Python agents that are running daily on behalf of 
 * One ranks buying signals from developer communities
 * Another filters competitor news into a verified brief
 
-These repos are  private, the design notes are published at [anthony-walsh.com/ai-agents](https://anthony-walsh.com/ai-agents).
+These repos are  private, but the design notes are published at [anthony-walsh.com/ai-agents](https://anthony-walsh.com/ai-agents).
 
 ## Links
 
