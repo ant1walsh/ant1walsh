@@ -27,4 +27,4 @@ These custom Python agent runs daily — executing web searches for relevant key
 - **Website** — [anthony-walsh.com](https://anthony-walsh.com)  
 - **LinkedIn** — [linkedin.com/in/anthonyrwalsh](https://linkedin.com/in/anthonyrwalsh)
 
-If you're building GTM tooling, I'd like to compare notes. 
+If you're building AI agents for GTM orchestations, let's chat — I'd like to compare notes. 
