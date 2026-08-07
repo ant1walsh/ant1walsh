@@ -13,9 +13,9 @@ I'm a technical product marketer with 10 years of experience directing go-to-mar
 
 I've deployed market research agents for GTM teams at AI infra startups that generate ~50 leads per day and save dozens of hours each month.
 
-* **Lead Signals Analyzer** identifies purchase intent from leads posting about their experiences online
-* **Account Signals Analyzer** monitors key accounts for events or triggers that indicate demand
-* **Competitive Intel Analyzer** monitors competitors for updates that influence positioning
+* **Lead Intel Analyzer** infers purchase intent from online posts about user experiences
+* **Account Intel Analyzer** monitors key accounts for updates that indicate demand
+* **Competitive Intel Analyzer** reports events that influence product positioning
 
 These agents runs daily — executing web searches for relevant keywords, extracting content with LLMs, and qualifying data deterministically. Records for leads, accounts, and competitors are enriched and de-duplicated based on accessible information. Signals are ranked, scored, and delivered directly to Slack.
 
